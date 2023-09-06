@@ -121,6 +121,7 @@ Save all the HEX codes in a text file.
 
 ## Program the ESP32 for This IoT Project
 Please download the code for this IoT project.
+https://github.com/techstudycell/iot-project-using-esp32-alexa-with-ota-wifi-update/tree/main/Code
 
 First, you have to install the required libraries. I have shared all the links in the code.
 **Download the libraries**
