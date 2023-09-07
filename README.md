@@ -78,7 +78,7 @@ For this project, you can also use the JLC SMT Service while ordering the PCB
 On JLCPCB's one-stop online platform, customers enjoy low-cost & high-quality & fast SMT service at an $8.00 setup fee($0.0017 per joint).
 
 $27 New User coupon & $24 SMT coupons every month.
-Visit https://jlcpcb.com/RAB
+Visit https://jlcpcb.com/RNA
 
 JLCPCB SMT Parts Library 200k+ in-stock components (689 Basic components and 200k+ Extended components)
 
@@ -89,7 +89,7 @@ Build a Personal library Inventory, save parts for now or the future
 Assembly will support 10M+ parts from Digikey, Mouser.
 
 ## Steps to Order the PCB Assembly from JLCPCB
-1. Visit https://jlcpcb.com/RAB and **Sign in / Sign up.**
+1. Visit [https://jlcpcb.com/RAB](https://jlcpcb.com/RNA) and **Sign in / Sign up.**
 2. Click on the **QUOTE NOW** button.
 3. Click on the "**Add your Gerber file**" button. Then browse and select the Gerber file you have downloaded.
 4. Set the required parameters like **Quantity, PCB masking color**, etc.
